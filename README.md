@@ -1,3 +1,3 @@
 # raft
 
-Learning [https://raft.github.io/].
+Learning https://raft.github.io.
